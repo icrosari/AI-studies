@@ -1,2 +1,2 @@
-# AI-studies
- códigos que fiz durante a disciplina de inteligência aritificial
+# Iris Dataset
+ códigos de aprendizado de máquina supervisionado, usando o dataset Iris Species: https://www.kaggle.com/uciml/iris
