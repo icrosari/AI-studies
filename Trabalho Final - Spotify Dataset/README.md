@@ -1,0 +1,2 @@
+# Projeto Final - Spotify Dataset
+Algoritmo em Python, feito para o projeto final da disciplina de Inteligência Artificial. O objetivo deste trabalho foi tentar, através do aprendizado de máquina supervisionado, classificar gêneros musicais baseando-se em características individuais de cada música, como "instrumentabilidade" e tempo. Os dados foram extraídos do Spotify, e adquiridos através do seguinte dataset do Kaggle: https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db
